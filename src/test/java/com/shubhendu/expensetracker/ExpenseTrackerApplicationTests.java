@@ -1,4 +1,4 @@
-package com.shubhendu.expense_tracker;
+package com.shubhendu.expensetracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

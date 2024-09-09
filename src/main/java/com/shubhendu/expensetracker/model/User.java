@@ -1,4 +1,4 @@
-package com.shubhendu.expense_tracker.model;
+package com.shubhendu.expensetracker.model;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
